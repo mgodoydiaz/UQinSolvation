@@ -32,13 +32,13 @@ To run the linked shake experiment, run the following command:
 
 Based on the average thermal length of an atom, this model shakes the atoms within a sphere of radius equal to the thermal length of the atom. This is based on Maxwell-Boltzmann probability distribution of gas velocity, the following equations lead to:
 
-$$v_t = √(kB * T / m)$$
+$$v_t = \sqrt{\frac{k_B \cdot T}{m}}$$
 
 where v_t is the thermal velocity, kB is the Boltzmann constant, T is the temperature (298 K) and m is the mass of the atom.
 
 The average thermal length is a concept that uses a charasteristic time searched on this work. The average thermal length is defined as:
 
-$$ATL = v_t * tc$$
+$$\text{ATL} = t_c \cdot \sqrt{\frac{k_B \cdot T}{m}}$$
 
 where tc is the charasteristic time.
 
