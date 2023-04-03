@@ -34,13 +34,13 @@ Based on the average thermal length of an atom, this model shakes the atoms with
 
 $$v_t = \sqrt{\frac{k_B \cdot T}{m}}$$
 
-where v_t is the thermal velocity, kB is the Boltzmann constant, T is the temperature (298 K) and m is the mass of the atom.
+where $v_t$ is the thermal velocity, kB is the Boltzmann constant, $T$ is the temperature (298 K) and m is the mass of the atom.
 
 The average thermal length is a concept that uses a charasteristic time searched on this work. The average thermal length is defined as:
 
 $$\text{ATL} = t_c \cdot \sqrt{\frac{k_B \cdot T}{m}}$$
 
-where tc is the charasteristic time.
+where $t_c$ is the charasteristic time.
 
 To run the thermal shake experiment, run the following command:
 
