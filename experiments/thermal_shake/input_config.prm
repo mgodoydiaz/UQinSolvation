@@ -1,0 +1,11 @@
+##INPUT_PARAMETERS_SHAKE##
+NAME=3_methoxyaniline
+TESTPATH=tests\3_methoxyaniline-T3
+PQRFILE=mobley_test_pqr\3_methoxyaniline.pqr
+N_TESTS=100
+TIEMPO=2.28206103924325e-10
+SIGMA_MOBLEY=0.02
+EP_IN=1
+KAPPA=0
+DENSIDAD=3
+OUTPUT_FILE=CSV_data\3_methoxyaniline-T3.csv
