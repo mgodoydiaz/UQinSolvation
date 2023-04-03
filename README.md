@@ -44,4 +44,4 @@ where $t_c$ is the charasteristic time.
 
 To run the thermal shake experiment, run the following command:
 
-```python characteristic_time_search```
+```python characteristic_time_search.py```
